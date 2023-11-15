@@ -1,0 +1,16 @@
+# Generated files by hugo
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# Temporary lock file while building
+/.hugo_build.lock
+
+# custom example pages
+# /content/posts/emoji-support.md
+# /content/posts/markdown-syntax.md
+# /content/posts/shortcodes.md
+# /content/posts/math-typesetting.md
+# /content/posts/rich-content.md
+# /content/posts/syntax-highlighting.md

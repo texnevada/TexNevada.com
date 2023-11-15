@@ -1,0 +1,11 @@
+{
+    "name": "Pinguin",
+    "image" : "images/file.jpg",
+    "bio": "Cool guy",
+    "social": [
+        { "twitter": "https://twitter.com/texnevada" },
+        { "github": "https://github.com/texnevada" },
+        { "discord": "https://discord.gg/KfkxD7hzwE" },
+        { "reddit": "https://reddit.com/user/texnevada" }
+    ]
+}

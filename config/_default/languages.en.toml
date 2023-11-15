@@ -1,0 +1,13 @@
+title = "My personal Website"
+
+[author]
+name = "TexNevada"
+image = "images/avatar.png"
+headline = "A generally awesome human"
+bio = "A little bit about me"
+links = [
+    { twitter = "https://twitter.com/TexNevada" },
+    { github = "https://github.com/texnevada" },
+    { discord = "https://discord.gg/KfkxD7hzwE" },
+    { reddit = "https://reddit.com/user/texnevada" }
+]
